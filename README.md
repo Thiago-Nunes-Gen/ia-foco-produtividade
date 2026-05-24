@@ -1,10 +1,9 @@
 # IA, Foco e Produtividade
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU-USUARIO/ia-foco-produtividade)
-![GitHub language count](https://img.shields.io/github/languages/count/SEU-USUARIO/ia-foco-produtividade)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/ia-foco-produtividade)
+![GitHub repo size](https://img.shields.io/github/repo-size/Thiago-Nunes-Gen/ia-foco-produtividade)
+![GitHub language count](https://img.shields.io/github/languages/count/Thiago-Nunes-Gen/ia-foco-produtividade)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thiago-Nunes-Gen/ia-foco-produtividade)
 
-# IA, Foco e Produtividade
 
 Projeto desenvolvido para o desafio da DIO com o objetivo de explorar como a Inteligência Artificial pode auxiliar no combate à procrastinação, melhoria do foco e organização dos estudos através da aprendizagem ativa utilizando o NotebookLM.
 
