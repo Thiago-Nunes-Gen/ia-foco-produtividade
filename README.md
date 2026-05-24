@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./imagens/ia_foco_produtividade.png" alt="Banner do Projeto IA, Foco e Produtividade" width="100%">
 </p>
+
+---
+
 # IA, Foco e Produtividade
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Thiago-Nunes-Gen/ia-foco-produtividade)
