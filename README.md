@@ -61,6 +61,49 @@ As fontes utilizadas no projeto estão disponíveis na pasta:
 
 ## 🧠 Engenharia de Prompts
 
+Durante o projeto, diferentes técnicas de engenharia de prompts foram testadas no NotebookLM com o objetivo de analisar como pequenas mudanças na construção das perguntas impactam diretamente a qualidade das respostas geradas pela IA.
+
+As análises incluíram:
+- profundidade das respostas;
+- organização do raciocínio;
+- clareza das explicações;
+- contextualização;
+- aplicabilidade prática;
+- comportamento da IA diante de diferentes estruturas de prompt.
+
+### Técnicas exploradas
+
+| Técnica | Arquivo |
+|---|---|
+| Prompt Simples | `prompts/prompt-simples.md` |
+| Zero-Shot Prompting | `prompts/zero-shot-prompting.md` |
+| Few-Shot Prompting | `prompts/few-shot-prompting.md` |
+| Chain of Thought Prompting | `prompts/chain-of-thought.md` |
+| Comparação Entre Técnicas | `prompts/comparacao-dos-prompts.md` |
+
+---
+
+## 📸 Processo no NotebookLM
+
+Durante os testes, foi utilizada principalmente a aba de conversa do NotebookLM para análise das respostas geradas pela IA e experimentação das diferentes técnicas de prompting.
+
+### Recursos explorados
+
+- Conversas contextualizadas
+- Engenharia de prompts
+- Comparação entre respostas
+- Aprendizagem ativa
+- Organização de conhecimento
+
+### Próximos passos
+
+Como continuidade futura do projeto, existe a intenção de explorar os recursos disponíveis na aba **Estúdio** do NotebookLM, incluindo:
+- mapas mentais;
+- apresentações;
+- guias de estudo;
+- resumos em áudio;
+- materiais visuais automatizados.
+
 Os testes, refinamentos e análises de prompts utilizados durante o projeto estão documentados em:
 
 ```txt
