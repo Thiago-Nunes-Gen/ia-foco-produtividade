@@ -11,7 +11,7 @@ O projeto busca unir neurociência, produtividade e IA para criar um material pr
 
 ---
 
-## Objetivos do Projeto
+## 🎯 Objetivos do Projeto
 
 - Entender os principais gatilhos da procrastinação
 - Aprender técnicas para melhorar foco e concentração
@@ -22,7 +22,19 @@ O projeto busca unir neurociência, produtividade e IA para criar um material pr
 
 ---
 
-## Ferramentas Utilizadas
+## 📚 Índice
+
+- [🎯 Objetivos do Projeto](#-objetivos-do-projeto)
+- [🛠️ Ferramentas Utilizadas](#️-ferramentas-utilizadas)
+- [📖 Curadoria de Fontes](#-curadoria-de-fontes)
+- [🧠 Engenharia de Prompts](#-engenharia-de-prompts)
+- [📘 Miniguia de Estudos](#-miniguia-de-estudos)
+- [📚 Glossário](#-glossário)
+- [🚀 Aprendizados](#-aprendizados)
+
+---
+
+## 🛠️ Ferramentas Utilizadas
 
 - NotebookLM
 - ChatGPT
@@ -30,3 +42,51 @@ O projeto busca unir neurociência, produtividade e IA para criar um material pr
 - Markdown
 
 ---
+
+## 📖 Curadoria de Fontes
+
+As fontes utilizadas no projeto estão disponíveis na pasta:
+
+```txt
+/fontes
+```
+
+---
+
+## 🧠 Engenharia de Prompts
+
+Os testes, refinamentos e análises de prompts utilizados durante o projeto estão documentados em:
+
+```txt
+/prompts
+```
+
+---
+
+## 📘 Miniguia de Estudos
+
+O miniguia final contendo conceitos, técnicas e aplicações práticas está disponível em:
+
+```txt
+/miniguia
+```
+
+---
+
+## 📚 Glossário
+
+Os principais conceitos abordados no projeto foram organizados em um glossário para facilitar revisões futuras.
+
+---
+
+## 🚀 Aprendizados
+
+Durante o desenvolvimento deste projeto foi possível compreender como a Inteligência Artificial pode atuar como ferramenta de apoio ao aprendizado, produtividade e organização dos estudos.
+
+Além do estudo sobre procrastinação e foco, o projeto também contribuiu para o desenvolvimento de habilidades relacionadas à:
+- engenharia de prompts;
+- pensamento crítico;
+- curadoria de conteúdo;
+- organização de projetos no GitHub;
+- documentação técnica;
+- aprendizagem ativa.
