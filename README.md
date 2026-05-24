@@ -38,6 +38,16 @@ O projeto busca unir neurociência, produtividade e IA para criar um material pr
 - [📚 Glossário](#-glossário)
 - [🚀 Aprendizados](#-aprendizados)
 
+## 🔗 Navegação Rápida
+
+| Conteúdo | Link |
+|---|---|
+| 📖 Curadoria de Fontes | [Abrir](./fontes) |
+| 🧠 Pasta de Prompts | [Abrir](./prompts) |
+| 📘 Miniguia Principal | [Abrir](./miniguia/miniguia-estudos.md) |
+| 📚 Glossário | [Abrir](./miniguia/glossario.md) |
+| 🔬 Comparação Entre Técnicas | [Abrir](./prompts/comparacao-dos-prompts.md) |
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
@@ -51,11 +61,9 @@ O projeto busca unir neurociência, produtividade e IA para criar um material pr
 
 ## 📖 Curadoria de Fontes
 
-As fontes utilizadas no projeto estão disponíveis na pasta:
+As fontes utilizadas no projeto podem ser acessadas aqui:
 
-```txt
-/fontes
-```
+📂 [Acessar pasta de fontes](./fontes)
 
 ---
 
@@ -75,11 +83,11 @@ As análises incluíram:
 
 | Técnica | Arquivo |
 |---|---|
-| Prompt Simples | `prompts/prompt-simples.md` |
-| Zero-Shot Prompting | `prompts/zero-shot-prompting.md` |
-| Few-Shot Prompting | `prompts/few-shot-prompting.md` |
-| Chain of Thought Prompting | `prompts/chain-of-thought.md` |
-| Comparação Entre Técnicas | `prompts/comparacao-dos-prompts.md` |
+| Prompt Simples | [Acessar](./prompts/prompt-simples.md) |
+| Zero-Shot Prompting | [Acessar](./prompts/zero-shot-prompting.md) |
+| Few-Shot Prompting | [Acessar](./prompts/few-shot-prompting.md) |
+| Chain of Thought Prompting | [Acessar](./prompts/chain-of-thought.md) |
+| Comparação Entre Técnicas | [Acessar](./prompts/comparacao-dos-prompts.md) |
 
 ---
 
@@ -104,21 +112,17 @@ Como continuidade futura do projeto, existe a intenção de explorar os recursos
 - resumos em áudio;
 - materiais visuais automatizados.
 
-Os testes, refinamentos e análises de prompts utilizados durante o projeto estão documentados em:
+Os testes, refinamentos e análises de prompts utilizados durante o projeto podem ser acessados aqui:
 
-```txt
-/prompts
-```
+🧠 [Acessar pasta de prompts](./prompts)
 
 ---
 
 ## 📘 Miniguia de Estudos
 
-O miniguia final contendo conceitos, técnicas e aplicações práticas está disponível em:
+O miniguia final contendo conceitos, técnicas e aplicações práticas pode ser acessado aqui:
 
-```txt
-/miniguia
-```
+📘 [Acessar miniguia](./miniguia)
 
 ---
 
