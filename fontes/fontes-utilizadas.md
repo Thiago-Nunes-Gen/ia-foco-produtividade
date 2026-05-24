@@ -5,8 +5,12 @@
 ### Deep Work — Cal Newport
 Livro focado em foco profundo, redução de distrações e produtividade em ambientes digitais.
 
+🎥 [Acessar conteúdo](https://www.youtube.com/watch?v=u_9XLEN_TgU)
+
 ### Hábitos Atômicos — James Clear
 Material utilizado para compreender construção de hábitos, constância e redução da procrastinação.
+
+🎥 [Acessar conteúdo](https://www.youtube.com/watch?v=S1ZZ7ZUFNNM)
 
 ---
 
