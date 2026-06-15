@@ -166,6 +166,25 @@ docs/
 
 ---
 
+## Aplicação Prática
+
+Embora este projeto tenha sido desenvolvido como uma solução conceitual para o desafio da DIO, sua estrutura foi organizada para permitir implementação prática em plataformas modernas de Inteligência Artificial.
+
+A combinação entre:
+
+* Base de conhecimento;
+* Prompt especializado;
+* Simulações de uso;
+* Regras de decisão comercial;
+
+permite que o Copiloto Comercial FYS seja utilizado em ferramentas como Cursor, Claude Projects, ChatGPT Custom GPTs, Antigravity e outras plataformas compatíveis com agentes de IA.
+
+Para um guia completo de implementação e execução do agente, consulte:
+
+📄 **docs/dar-vida-ao-agente.md**
+
+---
+
 ## Autor
 
 Projeto desenvolvido como atividade prática do Bootcamp DIO + FYS + Heineken, explorando o uso de Inteligência Artificial para resolver desafios reais de vendas e atendimento.
