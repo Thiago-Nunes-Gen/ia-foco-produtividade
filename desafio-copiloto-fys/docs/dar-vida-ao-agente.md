@@ -15,6 +15,14 @@ Mesmo que você nunca tenha criado um agente antes, siga os passos abaixo.
 
 ---
 
+Antes de iniciar a configuração do agente, recomenda-se seguir o guia:
+
+📄 docs/preparando-o-ambiente.md
+
+Esse documento ensina como organizar os arquivos do projeto localmente para utilização em ferramentas de IA como Cursor, Claude Projects, ChatGPT GPTs e Antigravity.
+
+---
+
 # Opção 1 - Cursor AI (Recomendado)
 
 O Cursor é uma ferramenta baseada em Inteligência Artificial que permite criar agentes utilizando arquivos como contexto.
