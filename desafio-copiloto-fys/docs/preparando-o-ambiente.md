@@ -170,3 +170,15 @@ Ao final da configuração, você terá um agente capaz de:
 * Recomendar ações para expansão da marca FYS.
 
 Tudo isso utilizando a base de conhecimento construída neste projeto.
+
+---
+
+## Próximo Passo
+
+Agora que o ambiente está preparado, siga para:
+
+➡️ [Como Dar Vida ao Agente](dar-vida-ao-agente.md)
+
+Ou 
+
+➡️ [Voltar Desafio Copiloto FYS](desafio-copiloto-fys.md)
