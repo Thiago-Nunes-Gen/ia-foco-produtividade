@@ -8,6 +8,31 @@ A solução busca utilizar Inteligência Artificial para apoiar a identificaçã
 
 ---
 
+## Navegação Rápida
+
+### Documentação Principal
+
+- 📖 [Preparando o Ambiente](docs/preparando-o-ambiente.md)
+- 🤖 [Como Dar Vida ao Agente](docs/dar-vida-ao-agente.md)
+- 🔄 [Fluxo da Solução](docs/fluxo-solucao.md)
+
+### Base de Conhecimento
+
+- 🧃 [Marca FYS](knowledge/marca-fys.md)
+- 🎯 [Desafio Comercial](knowledge/desafio-comercial.md)
+- 📦 [Portfólio](knowledge/portfolio.md)
+- 💬 [Argumentos de Venda](knowledge/argumentos-venda.md)
+
+### Configuração do Agente
+
+- ⚙️ [Prompt Principal](prompts/agente-priorizacao-padarias.md)
+
+### Exemplos
+
+- 📝 [Simulações](examples/simulacoes.md)
+
+---
+
 ## Problema de Negócio
 
 Durante a mentoria da FYS, foi apresentado um desafio real enfrentado pela marca:
