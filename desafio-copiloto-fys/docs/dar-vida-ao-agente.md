@@ -15,11 +15,11 @@ Mesmo que você nunca tenha criado um agente antes, siga os passos abaixo.
 
 ---
 
-Antes de iniciar a configuração do agente, recomenda-se seguir o guia:
+## Antes de Começar
 
-📄 docs/preparando-o-ambiente.md
+Caso ainda não tenha preparado os arquivos localmente:
 
-Esse documento ensina como organizar os arquivos do projeto localmente para utilização em ferramentas de IA como Cursor, Claude Projects, ChatGPT GPTs e Antigravity.
+➡️ [Preparando o Ambiente](preparando-o-ambiente.md)
 
 ---
 
@@ -311,3 +311,9 @@ Agendar visita comercial e propor teste inicial do portfólio.
 # Conclusão
 
 Este projeto foi estruturado para demonstrar como uma base de conhecimento bem organizada, combinada com Engenharia de Prompt, pode transformar um desafio real de vendas em uma solução prática utilizando Inteligência Artificial.
+
+---
+
+## Entenda Como a Solução Funciona
+
+➡️ [Fluxo da Solução](fluxo-solucao.md)
